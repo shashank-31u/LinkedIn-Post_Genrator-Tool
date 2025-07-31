@@ -26,8 +26,8 @@ The **LinkedIn Post Generator** enables influencers like Mohan to:
 
 ### Stage 2: Generate New Post
 
-- Uses selected features (topic, preferred language, length)
-- Applies **few-shot learning** with similar previous posts to guide the LLM
+- Uses selected features (topic, English language, length)
+- Applies **few-shot learning** with similar previous posts to guide the LLM 
 - Generates a new, stylistically consistent post
 
 ---
