@@ -22,7 +22,7 @@ The **LinkedIn Post Generator** enables influencers like Mohan to:
 - Extracts features like:
   - **Topics** (e.g., AI, leadership, marketing)
   - **Language** (English, Hindi, etc.)
-  - **Post Length** (short, medium, long)
+  - **Post Length** (short, medium, Long)
 
 ### Stage 2: Generate New Post
 
